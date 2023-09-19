@@ -13,7 +13,7 @@
 
 ### Chicago Crime Density Analysis
 
-[Chicago Crime Density](/pdf/BPopov_Lab5)
+[Chicago Crime Density](/pdf/BPopov_Lab5.pdf)
 <img src="images/Morans I-Map.jpg?raw=true"/>
 
 <img src="images/Ord Gi-Map.jpg?raw=true"/>
