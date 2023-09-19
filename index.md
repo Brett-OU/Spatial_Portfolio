@@ -4,7 +4,7 @@
 
 ### Texas Surface Analysis
 
-[Texas Surface Analysis download](/pdf/BPopov_Lab6.pdf)
+[Download - Texas Surface Analysis](/pdf/BPopov_Lab6.pdf)
 <img src="images/IDW.jpg?raw=true"/>
 
 <img src="images/Kriging.jpg?raw=true"/>
@@ -13,7 +13,7 @@
 
 ### Chicago Crime Density Analysis
 
-[Chicago Crime Density download](/pdf/BPopov_Lab5.pdf)
+[Download - Chicago Crime Density](/pdf/BPopov_Lab5.pdf)
 <img src="images/Morans I-Map.jpg?raw=true"/>
 
 <img src="images/Ord Gi-Map.jpg?raw=true"/>
