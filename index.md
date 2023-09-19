@@ -2,18 +2,16 @@
 
 ---
 
-### Category Name 1 
+### Texas Surface Analysis
 
-[Project 1 Title](/sample_page)
+[Texas Project](/BPopov_Lab6.pdf)
 <img src="images/IDW.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/Kriging.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="pdf/BPopov_Lab5.pdf?raw=true"/>
+<img src="images/Morans I-Map.jpg?raw=true"/>
 
 ---
 
