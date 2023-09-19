@@ -13,7 +13,7 @@
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/Kriging.jpg?raw=true"/>
+<img src="pdf/BPopov_Lab5.pdf?raw=true"/>
 
 ---
 
