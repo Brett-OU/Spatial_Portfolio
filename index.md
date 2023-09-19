@@ -20,13 +20,10 @@
 
 ---
 
-### Category Name 2
+### Google Earth Engine Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Vegetation Study - Richmond Hill, GA]([https://code.earthengine.google.com/24d59d3099422bee71285a871aa5c207])
+- [Winter Wheat Study - Texas]([https://code.earthengine.google.com/c9290379ca5f6e4bd516d02b243ba673])
 
 ---
 
