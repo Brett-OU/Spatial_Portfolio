@@ -4,7 +4,7 @@
 
 ### Texas Surface Analysis
 
-[Texas Project](/BPopov_Lab6.pdf)
+[Texas Project](/pdf/BPopov_Lab6.pdf)
 <img src="images/IDW.jpg?raw=true"/>
 
 <img src="images/Kriging.jpg?raw=true"/>
