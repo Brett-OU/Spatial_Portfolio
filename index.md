@@ -23,7 +23,7 @@
 ### Google Earth Engine Projects
 
 - [Vegetation Study - Richmond Hill, GA](https://code.earthengine.google.com/24d59d3099422bee71285a871aa5c207)
-- [Winter Wheat Study - Texas]([https://code.earthengine.google.com/c9290379ca5f6e4bd516d02b243ba673])
+- [Winter Wheat Study - Texas](https://code.earthengine.google.com/c9290379ca5f6e4bd516d02b243ba673)
 
 ---
 
