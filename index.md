@@ -24,7 +24,11 @@
 
 - [Vegetation Study - Richmond Hill, GA](https://code.earthengine.google.com/24d59d3099422bee71285a871aa5c207)
 - [Winter Wheat Study - Texas](https://code.earthengine.google.com/c9290379ca5f6e4bd516d02b243ba673)
+
+### Online Mapping Projects
+
 - [Cleveland County Population Density - Oklahoma](https://uok.maps.arcgis.com/apps/mapviewer/index.html?layers=35d203996bdb4ba181d4fdc836e0d0e2)
+  
 ---
 
 
