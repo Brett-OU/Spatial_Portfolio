@@ -24,6 +24,7 @@
 
 - [Vegetation Study - Richmond Hill, GA](https://code.earthengine.google.com/24d59d3099422bee71285a871aa5c207)
 - [Winter Wheat Study - Texas](https://code.earthengine.google.com/c9290379ca5f6e4bd516d02b243ba673)
+- [Split Screen Burned Area Investigation](https://code.earthengine.google.com/d433bd1fd88fd1c0cf790a4b1eef9535)
 
 ### Online Mapping Projects
 
